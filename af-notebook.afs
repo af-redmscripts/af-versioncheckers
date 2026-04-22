@@ -1,5 +1,12 @@
 [
   {
     "version": "1.0.5"
+  },
+  {
+    "version": "1.0.6",
+    "changelog": [
+      "VORP: Fixed item duplication and loss when renaming notebook",
+      "VORP: Fixed rename failing silently on first notebook use"
+    ]
   }
 ]
